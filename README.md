@@ -61,6 +61,8 @@ buffer back in a loop. Different data files will produce different sounds and yo
 experiment with the playback rate and other parameters with the 'W-rate', 'D-rate', 'Win'
 and 'Dir' controls.
 
+![SoniFRED iPad interface](../img/SoniFREDiPad.jpg)!
+
 ### Experimental rig
 There is a second version of SoniFRED which uses steam train sounds. This has been combined
 with the beach version into a single Max project which was used in a user study (see [`SoniFRED.maxproj`](src/SoniFRED.maxproj)). The 
